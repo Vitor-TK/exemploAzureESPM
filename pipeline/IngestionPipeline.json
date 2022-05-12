@@ -48,7 +48,9 @@
 						"referenceName": "ParquetIngestion",
 						"type": "DatasetReference",
 						"parameters": {
-							"container": "ingestion"
+							"container": "ingestion",
+							"folder": "carloca",
+							"file": "LocItemLocacao.parquet"
 						}
 					}
 				]
